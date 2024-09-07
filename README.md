@@ -69,7 +69,7 @@ This Python script implements a forecasting model to predict product quantities 
 
 ## 9. Finalizing and Saving Results
 
-- **Data Organization**: The results are organized, duplicates are removed, and additional fields such as `ReferenceNo` and `InvoiceDescription` are added.
+- **Data Organization**: The results are organized, duplicates are removed.
 
 - **Save to Excel**: The final dataset is sorted by date and location, and then saved to an Excel file at `C:\Forecast.xlsx`.
 
